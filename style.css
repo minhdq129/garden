@@ -36,6 +36,6 @@ canvas {
 }
 
 #Cocos3dGameContainer, #GameCanvas {
-  width: 100%;
+  width: auto;
   height: 100%;
 }
